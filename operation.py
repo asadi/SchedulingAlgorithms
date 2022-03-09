@@ -1,4 +1,5 @@
 # Ebrahim Asadi
+# email: ceo@hdfsoft.com
 
 from resource_type import *
 

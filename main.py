@@ -1,5 +1,5 @@
 # Ebrahim Asadi
-# email: ceo@hdfsoft.com
+# email: asadi.email@gmail.com
 
 from scheduling_graph import *
 
